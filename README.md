@@ -58,7 +58,7 @@ Mine-Safety-Device-Project/
 ├── Circuit_Diagram/    # Circuit diagrams and connection images
 ├── Video/              # Project demonstration video file (or linked)
 └── README.md           # This documentation file
-## Results:
+## results:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_atmos.jpg" width="400" height="400" /> 
   <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_thingSpeak_Channels.jpg" width="400" height="400" />
@@ -68,5 +68,3 @@ Mine-Safety-Device-Project/
   <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/temperature_image.jpg" width="400" height="400" /> 
   <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/humidity_images.jpg" width="400" height="400" />
 </p>
-
-> **More details found in Document [here](assets/docs/Air_Pollution.pdf)**
