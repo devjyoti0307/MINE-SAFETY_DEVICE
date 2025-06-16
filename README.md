@@ -11,7 +11,6 @@ This is an **IoT-based Mine Safety Device** which monitors hazardous gases, dust
 - MQ135 Gas Sensor (Air Quality)
 - DHT11 Sensor (Temperature & Humidity)
 - Dust Sensor
-- pH Sensor
 - 16x2 LCD Display (optional)
 - Buzzer & LEDs (Alert system)
 - Power supply and connecting wires
@@ -22,7 +21,6 @@ This is an **IoT-based Mine Safety Device** which monitors hazardous gases, dust
 
 ![System Architecture](https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/Images%20of%20Circuit%20Digram%20and%20others/pic7.jpg)
 
-> **Note:** Upload your circuit diagram in the `Circuit_Diagram/` folder as `circuit_diagram.png`. If file name is different, update the above URL.
 
 ---
 
@@ -43,7 +41,6 @@ This is an **IoT-based Mine Safety Device** which monitors hazardous gases, dust
 | Air Quality (NH3, CO2, Alcohol, Benzene) | MQ135 |
 | Temperature & Humidity | DHT11 |
 | Dust Level (PM) | Dust Sensor |
-| Water pH Level | pH Sensor |
 | Gas Concentration (Calibrated) | Custom formula for sensor voltage-to-PPM conversion |
 
 > Mathematical calculations for gas concentration are available in detailed report documentation.
@@ -61,3 +58,15 @@ Mine-Safety-Device-Project/
 ├── Circuit_Diagram/    # Circuit diagrams and connection images
 ├── Video/              # Project demonstration video file (or linked)
 └── README.md           # This documentation file
+## Results:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_atmos.jpg" width="400" height="400" /> 
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_thingSpeak_Channels.jpg" width="400" height="400" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/temperature_image.jpg" width="400" height="400" /> 
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/humidity_images.jpg" width="400" height="400" />
+</p>
+
+> **More details found in Document [here](assets/docs/Air_Pollution.pdf)**
