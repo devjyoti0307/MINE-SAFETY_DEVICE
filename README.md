@@ -20,7 +20,7 @@ This is an **IoT-based Mine Safety Device** which monitors hazardous gases, dust
 
 ## 🏗️ System Architecture
 
-![System Architecture](https://github.com/devjyoti0307/MINE-SAFETY_DEVICE/blob/main/Circuit_Diagram/circuit_diagram.png)
+![System Architecture]Original circuit.jpg
 
 > **Note:** Upload your circuit diagram in the `Circuit_Diagram/` folder as `circuit_diagram.png`. If file name is different, update the above URL.
 
