@@ -58,13 +58,72 @@ Mine-Safety-Device-Project/
 ├── Circuit_Diagram/    # Circuit diagrams and connection images
 ├── Video/              # Project demonstration video file (or linked)
 └── README.md           # This documentation file
-## results:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_atmos.jpg" width="400" height="400" /> 
-  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_thingSpeak_Channels.jpg" width="400" height="400" />
-</p>
+
+<a name="atmostrack"></a>
+
+## 🌐 AtmosTrack Mobile App
+
+***
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/temperature_image.jpg" width="400" height="400" /> 
-  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/humidity_images.jpg" width="400" height="400" />
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_atmos.jpg" width="300" height="300" alt="AtmosTrack App Logo"/>
 </p>
+
+### Features
+
+- Real-time Air Quality Monitoring
+- Temperature & Humidity Sensing
+- Pollution Monitoring with Alerts
+- ThingSpeak Channel Integration
+- Clean and Minimal Design
+
+---
+
+### 🔎 Monitoring App Front
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/image_thingSpeak_Channels.jpg" width="400" height="400" alt="App Front Monitoring"/>
+</p>
+
+- Displays real-time sensor data fetched from IoT devices.
+- Integrated with ThingSpeak cloud platform for visualization.
+
+---
+
+### 🌡️ Temperature Monitoring
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/temperature_image.jpg" width="400" height="400" alt="Temperature Monitoring"/>
+</p>
+
+- Displays ambient temperature in real-time.
+- Continuously monitored and stored on cloud.
+
+---
+
+### 💧 Humidity Monitoring
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/humidity_images.jpg" width="400" height="400" alt="Humidity Monitoring"/>
+</p>
+
+- Displays real-time humidity levels.
+- Important factor in AQI calculation.
+
+---
+
+### 🌫️ Pollution Monitoring
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devjyoti0307/MINE-SAFETY_DEVICE/main/AtmosTrack_App/pollution_images.jpg" width="400" height="400" alt="Pollution Monitoring"/>
+</p>
+
+- Monitors pollutants: PM2.5, PM10, CO₂, NO₂, etc.
+- Alerts user when AQI crosses safe thresholds.
+- Graphical representation via ThingSpeak integration.
+
+---
+
+
+
+
